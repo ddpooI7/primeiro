@@ -1,1 +1,15 @@
-
+.cabecalho{
+    background-color: black;
+}
+.titulo{
+    text-align: center;
+}
+.texto1{
+    text-align: center;
+}
+.imagem1{
+    text-align: center;
+}
+.corpo{
+    background-color: grey;
+}
